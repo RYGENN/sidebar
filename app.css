@@ -10,7 +10,7 @@ body{
 .btn-toggle{
     position: absolute;
     left: 80%;
-    top: 10%;
+    top: 11%;
     border: none;
     cursor: pointer;
 }
