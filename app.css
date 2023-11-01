@@ -17,33 +17,7 @@ body{
 .btn-toggle:hover{
     box-shadow:hotpink;
 }
-/* .sidebar{
-    position: fixed;
-    margin-top:38px ;
-    width: 320px;
-    height: 450px;
-    background-color: rgb(42, 72, 68);
-    border-radius: 4px;
-}
-.close-btn{
-    position: absolute;
-    top: 11%;
-    left: 53%;
-    border: none;
-}
-img{
-    position: absolute;
-    width: 70px;
-    background: none;
-}
-.abs{
-    position: absolute;
-    top: 40%;
-    text-decoration: none;
-    border: none;
-    display: flex;
 
-} */
 
 /* Basic styling for the sidebar */
 .sidebar {
